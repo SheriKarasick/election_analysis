@@ -24,5 +24,27 @@ The data summary includes these key points of information:
 * Python 3.7.6, Visual Studio Code 1.43.2
 
 ## Challenge Overview
+For the challenge this week:
+   - |A Python file was created|() to analyze the .csv file
+   - |A .txt file was created| to share the output of the results.
 
 ## Challenge Summary
+
+      Election Results
+      -------------------------
+      Total Votes: 369,711
+      -------------------------
+      Jefferson: 10.5% (38,855)
+      Denver: 82.8% (306,055)
+      Arapahoe: 6.7% (24,801)
+      -------------------------
+      Largest County Turnout: Denver
+      -------------------------
+      Charles Casper Stockham: 23.0% (85,213)
+      Diana DeGette: 73.8% (272,892)
+      Raymon Anthony Doane: 3.1% (11,606)
+      -------------------------
+      Winner: Diana DeGette
+      Winning Vote Count: 272,892
+      Winning Percentage: 73.8%
+      -------------------------
