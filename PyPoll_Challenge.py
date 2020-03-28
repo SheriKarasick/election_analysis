@@ -27,7 +27,6 @@ election_counties = []
 county_votes = {}
 turnout_county = ""
 
-
 # Load data file and prepare for analysis:
 with open(file_to_load) as election_data:
     file_reader = csv.reader(election_data)
