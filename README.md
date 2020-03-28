@@ -25,8 +25,8 @@ The data summary includes these key points of information:
 
 ## Challenge Overview
 For the challenge this week:
-   - |A Python file was created|(.../PyPoll_Challenge.py) to analyze the .csv file
-   - |A .txt file was created|(.../election_analysis.txt) to share the output of the results.
+   - [A Python file was created](/PyPoll_Challenge.py) to analyze the .csv file
+   - [A .txt file was created](/election_analysis.txt) to share the output of the results.
 
 ## Challenge Summary
 
